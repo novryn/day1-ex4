@@ -7,9 +7,8 @@ print('Hello')
 
 코드에 왜 회색 배경이 안 생길까?
 
-'''
-print("hello world")
 
-'''
 
 ### 황지애의 README
+
+안녕하세요 😊😊
